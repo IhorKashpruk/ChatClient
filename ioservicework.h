@@ -1,0 +1,4 @@
+#ifndef IOSERVICEWORK_H
+#define IOSERVICEWORK_H
+
+#endif // IOSERVICEWORK_H
